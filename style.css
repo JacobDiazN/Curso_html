@@ -1,0 +1,21 @@
+h1{
+    color:#4D70FA;
+}
+h2{
+    color: #2C5E1D;
+}
+.negro{
+    color: black;
+}
+.fotoInicio{
+    width: 300px;
+}
+.fotoVentas{
+    width: 600px;
+}
+input{
+    color: red;
+}
+.video{
+    width: 500px;
+}
